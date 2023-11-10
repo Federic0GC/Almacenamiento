@@ -1,0 +1,16 @@
+idCliente,nombre,edad,telefono,sexo,tieneTitulo
+101,Juan Pérez,30,123456789,M,false
+102,Ana Gómez,25,987654321,F,true
+103,Carlos Rodríguez,35,555555555,M,false
+104,Laura Sánchez,28,999888777,F,true
+105,Miguel García,40,111122223,M,false
+106,Sofía Hernández,22,333444555,F,false
+107,David López,32,777777777,M,true
+108,Marta Ruiz,27,666666666,F,false
+109,Alejandro Torres,38,444444444,M,true
+110,Isabel Martínez,29,111111111,F,false
+111,Pablo Castro,33,888888888,M,false
+112,Elena Diaz,26,222333444,F,false
+113,Fernando Jiménez,45,123123123,M,true
+114,Sara Navarro,31,456789012,F,false
+115,Javier Vargas,24,789012345,M,false
