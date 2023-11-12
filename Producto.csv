@@ -1,16 +1,17 @@
-idProducto,nombre,precio,categoria
-191,Café en Grano 250g,12.99,Café
-192,Prensa Francesa,24.99,Accesorios
-193,Taza de Cerámica,8.50,Accesorios
-194,Galletas de Café,6.99,Snacks
-195,Café Molido 500g,14.99,Café
-196,Termo de Acero Inoxidable,19.99,Accesorios
-197,Taza de Viaje,12.50,Accesorios
-198,Cafetera Eléctrica,39.99,Electrodomésticos
-199,Café Descafeinado 250g,13.99,Café
-200,Taza Grande de Porcelana,9.99,Accesorios
-201,Azúcar de Caña,4.50,Ingredientes
-202,Café en Cápsulas,16.99,Café
-203,Termo para Café,22.50,Accesorios
-204,Pastel de Café,14.99,Postres
-205,Taza de Espresso,7.99,Accesorios
+idProducto,nombre,precio,categoria,idOrden
+191,Café en Grano 250g,12.99,Café,176
+192,Té Negro 100g,9.99,Té,176
+194,Azúcar 1kg,5.50,Endulzante,177
+195,Leche en Polvo 500g,8.75,Lácteos,178
+197,Galletas de Avena 300g,3.99,Galletas,178
+198,Arroz Integral 2kg,10.50,Arroz,179
+196,Harina de Trigo 1kg,4.75,Harina,179
+199,Aceite de Oliva 500ml,15.25,Aceites,180
+200,Jabón de Tocador 3 unidades,6.50,Cuidado Personal,181
+201,Detergente Líquido 1L,8.99,Limpieza,182
+202,Pasta Dental 150g,2.99,Cuidado Personal,183
+203,Sal de Mesa 500g,1.50,Condimento,184
+205,Sopa Instantánea 3 unidades,4.25,Sopas,184
+204,Shampoo 250ml,7.50,Cuidado Personal,185
+191,Café en Grano 250g,12.99,Café,186
+
