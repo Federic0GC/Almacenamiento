@@ -1,4 +1,4 @@
-idOrden,cliente,fechaOrden,monto,producto,cantidad,idCliente
+idOrden,cliente,fechaOrden,monto,producto,cantidad_requerida,idCliente
 176,Juan Pérez,2023-11-10,150.00,Café en Grano 250g,2,101
 177,Ana Gomez,2023-11-10,150.00,Prensa Francesa,1,102
 178,Carlos Rodriquez,2023-11-09,89.99,Galletas de Café,3,103
